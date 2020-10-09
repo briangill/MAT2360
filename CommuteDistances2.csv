@@ -1,0 +1,1001 @@
+City,Age,Distance,Sex
+Atlanta,19,10,M
+Atlanta,55,45,M
+Atlanta,48,12,M
+Atlanta,45,4,F
+Atlanta,48,14,F
+Atlanta,43,33,M
+Atlanta,48,15,M
+Atlanta,41,4,F
+Atlanta,47,25,M
+Atlanta,39,1,F
+Atlanta,18,22,F
+Atlanta,38,50,M
+Atlanta,52,10,F
+Atlanta,39,30,M
+Atlanta,29,10,F
+Atlanta,46,12,M
+Atlanta,46,2,F
+Atlanta,43,25,M
+Atlanta,39,7,M
+Atlanta,42,8,F
+Atlanta,30,10,M
+Atlanta,40,30,M
+Atlanta,45,22,F
+Atlanta,37,20,M
+Atlanta,67,7,F
+Atlanta,44,3,F
+Atlanta,39,5,M
+Atlanta,56,5,F
+Atlanta,23,45,F
+Atlanta,41,35,M
+Atlanta,40,25,M
+Atlanta,66,15,F
+Atlanta,55,17,F
+Atlanta,24,50,F
+Atlanta,55,10,F
+Atlanta,42,30,F
+Atlanta,46,10,F
+Atlanta,49,19,F
+Atlanta,57,5,F
+Atlanta,38,4,M
+Atlanta,54,20,F
+Atlanta,66,12,M
+Atlanta,35,4,F
+Atlanta,41,32,M
+Atlanta,59,10,M
+Atlanta,46,12,F
+Atlanta,50,35,M
+Atlanta,53,31,M
+Atlanta,39,3,F
+Atlanta,48,22,M
+Atlanta,35,20,F
+Atlanta,54,30,F
+Atlanta,38,19,M
+Atlanta,34,50,M
+Atlanta,49,6,M
+Atlanta,40,7,M
+Atlanta,42,11,M
+Atlanta,23,25,F
+Atlanta,35,15,F
+Atlanta,57,1,M
+Atlanta,24,10,F
+Atlanta,29,25,M
+Atlanta,35,14,M
+Atlanta,38,10,F
+Atlanta,47,24,M
+Atlanta,46,10,M
+Atlanta,34,2,M
+Atlanta,35,5,M
+Atlanta,32,32,M
+Atlanta,46,9,M
+Atlanta,24,12,M
+Atlanta,26,18,F
+Atlanta,22,6,M
+Atlanta,34,30,F
+Atlanta,50,30,M
+Atlanta,47,2,M
+Atlanta,35,3,M
+Atlanta,37,3,M
+Atlanta,29,0,F
+Atlanta,24,20,M
+Atlanta,22,22,F
+Atlanta,38,49,M
+Atlanta,28,20,M
+Atlanta,53,25,M
+Atlanta,21,3,M
+Atlanta,44,10,M
+Atlanta,34,20,M
+Atlanta,67,16,M
+Atlanta,49,1,F
+Atlanta,35,20,F
+Atlanta,45,25,M
+Atlanta,40,19,F
+Atlanta,62,100,M
+Atlanta,64,6,F
+Atlanta,71,5,F
+Atlanta,37,20,F
+Atlanta,33,14,F
+Atlanta,71,8,M
+Atlanta,33,33,M
+Atlanta,53,16,F
+Atlanta,39,34,M
+Atlanta,17,10,M
+Atlanta,51,32,M
+Atlanta,26,14,F
+Atlanta,40,15,M
+Atlanta,49,40,F
+Atlanta,54,15,F
+Atlanta,54,17,F
+Atlanta,50,10,F
+Atlanta,42,12,F
+Atlanta,29,8,M
+Atlanta,55,18,F
+Atlanta,51,2,M
+Atlanta,28,1,F
+Atlanta,31,30,M
+Atlanta,48,23,F
+Atlanta,41,4,M
+Atlanta,27,28,F
+Atlanta,29,10,M
+Atlanta,35,19,M
+Atlanta,28,10,M
+Atlanta,31,15,F
+Atlanta,34,5,M
+Atlanta,38,35,M
+Atlanta,33,12,F
+Atlanta,40,8,F
+Atlanta,35,19,F
+Atlanta,51,45,M
+Atlanta,57,9,M
+Atlanta,44,15,F
+Atlanta,39,44,F
+Atlanta,49,20,F
+Atlanta,53,8,F
+Atlanta,32,12,M
+Atlanta,50,3,M
+Atlanta,33,6,M
+Atlanta,34,30,F
+Atlanta,41,0,M
+Atlanta,36,15,M
+Atlanta,63,0,F
+Atlanta,51,2,M
+Atlanta,31,20,F
+Atlanta,36,12,F
+Atlanta,29,3,F
+Atlanta,42,15,M
+Atlanta,46,2,F
+Atlanta,58,16,M
+Atlanta,39,30,M
+Atlanta,25,60,M
+Atlanta,50,38,M
+Atlanta,35,30,F
+Atlanta,34,2,F
+Atlanta,57,23,M
+Atlanta,36,20,M
+Atlanta,31,20,F
+Atlanta,27,0,F
+Atlanta,33,58,M
+Atlanta,43,7,F
+Atlanta,32,20,M
+Atlanta,56,27,M
+Atlanta,34,3,F
+Atlanta,63,4,F
+Atlanta,38,15,F
+Atlanta,38,16,M
+Atlanta,57,25,F
+Atlanta,25,6,M
+Atlanta,53,5,M
+Atlanta,37,16,M
+Atlanta,59,30,F
+Atlanta,37,10,F
+Atlanta,37,2,M
+Atlanta,28,15,M
+Atlanta,19,0,M
+Atlanta,47,35,F
+Atlanta,51,38,F
+Atlanta,65,50,M
+Atlanta,40,9,F
+Atlanta,22,7,M
+Atlanta,66,23,M
+Atlanta,33,15,F
+Atlanta,47,12,M
+Atlanta,31,12,F
+Atlanta,47,5,F
+Atlanta,55,25,M
+Atlanta,55,8,M
+Atlanta,28,30,M
+Atlanta,19,34,M
+Atlanta,48,34,M
+Atlanta,47,49,M
+Atlanta,43,30,M
+Atlanta,39,60,F
+Atlanta,45,25,F
+Atlanta,66,20,M
+Atlanta,55,61,M
+Atlanta,55,23,F
+Atlanta,28,2,F
+Atlanta,28,20,F
+Atlanta,18,19,F
+Atlanta,50,0,F
+Atlanta,43,10,F
+Atlanta,69,17,F
+Atlanta,64,8,F
+Atlanta,48,37,M
+Atlanta,40,25,F
+Atlanta,48,10,F
+Atlanta,48,29,F
+Atlanta,60,10,M
+Atlanta,49,35,F
+Atlanta,33,5,F
+Atlanta,30,60,F
+Atlanta,54,10,M
+Atlanta,56,17,M
+Atlanta,25,4,F
+Atlanta,36,9,F
+Atlanta,75,24,M
+Atlanta,26,12,F
+Atlanta,40,30,F
+Atlanta,48,10,F
+Atlanta,43,22,F
+Atlanta,41,0,M
+Atlanta,22,5,M
+Atlanta,50,16,F
+Atlanta,27,17,F
+Atlanta,23,0,F
+Atlanta,23,18,M
+Atlanta,52,4,F
+Atlanta,45,35,M
+Atlanta,51,50,M
+Atlanta,55,32,F
+Atlanta,26,10,M
+Atlanta,17,15,M
+Atlanta,61,6,M
+Atlanta,45,9,M
+Atlanta,51,13,M
+Atlanta,54,18,M
+Atlanta,42,4,M
+Atlanta,32,30,M
+Atlanta,38,30,F
+Atlanta,29,1,M
+Atlanta,45,20,M
+Atlanta,47,25,F
+Atlanta,58,30,F
+Atlanta,23,25,M
+Atlanta,51,38,F
+Atlanta,51,17,F
+Atlanta,23,12,F
+Atlanta,43,11,F
+Atlanta,40,39,F
+Atlanta,31,5,M
+Atlanta,28,15,F
+Atlanta,39,8,F
+Atlanta,21,12,M
+Atlanta,40,3,F
+Atlanta,56,30,M
+Atlanta,38,13,M
+Atlanta,44,29,M
+Atlanta,45,50,F
+Atlanta,49,20,F
+Atlanta,22,3,F
+Atlanta,54,8,M
+Atlanta,44,7,M
+Atlanta,31,8,F
+Atlanta,43,26,M
+Atlanta,32,23,M
+Atlanta,32,7,M
+Atlanta,55,7,F
+Atlanta,34,15,F
+Atlanta,54,5,M
+Atlanta,51,21,F
+Atlanta,19,2,M
+Atlanta,47,5,M
+Atlanta,53,9,F
+Atlanta,27,99,M
+Atlanta,47,30,M
+Atlanta,30,10,M
+Atlanta,35,20,M
+Atlanta,28,11,F
+Atlanta,30,2,M
+Atlanta,40,30,F
+Atlanta,42,10,F
+Atlanta,33,5,M
+Atlanta,52,25,F
+Atlanta,17,10,M
+Atlanta,38,3,F
+Atlanta,16,20,F
+Atlanta,52,30,M
+Atlanta,55,35,M
+Atlanta,17,15,F
+Atlanta,34,35,F
+Atlanta,35,6,F
+Atlanta,43,22,M
+Atlanta,49,12,F
+Atlanta,33,30,M
+Atlanta,39,40,M
+Atlanta,41,45,M
+Atlanta,25,7,F
+Atlanta,35,38,M
+Atlanta,17,2,F
+Atlanta,18,12,M
+Atlanta,48,35,M
+Atlanta,35,11,M
+Atlanta,40,38,F
+Atlanta,44,0,F
+Atlanta,55,29,M
+Atlanta,47,30,F
+Atlanta,43,29,M
+Atlanta,52,3,M
+Atlanta,40,1,M
+Atlanta,54,24,M
+Atlanta,44,34,F
+Atlanta,62,44,M
+Atlanta,38,9,F
+Atlanta,26,30,F
+Atlanta,45,4,M
+Atlanta,32,25,M
+Atlanta,52,9,M
+Atlanta,40,24,M
+Atlanta,50,25,M
+Atlanta,29,13,F
+Atlanta,43,22,M
+Atlanta,39,30,M
+Atlanta,50,22,F
+Atlanta,28,34,F
+Atlanta,65,26,M
+Atlanta,50,14,M
+Atlanta,20,7,F
+Atlanta,41,14,F
+Atlanta,54,4,F
+Atlanta,38,15,M
+Atlanta,36,89,M
+Atlanta,27,8,F
+Atlanta,22,30,F
+Atlanta,37,6,F
+Atlanta,35,5,M
+Atlanta,25,25,F
+Atlanta,17,22,F
+Atlanta,31,32,M
+Atlanta,27,15,M
+Atlanta,19,14,F
+Atlanta,42,4,F
+Atlanta,39,4,M
+Atlanta,31,23,F
+Atlanta,57,14,M
+Atlanta,41,20,F
+Atlanta,44,22,M
+Atlanta,32,33,F
+Atlanta,27,36,M
+Atlanta,33,22,F
+Atlanta,39,11,F
+Atlanta,62,10,M
+Atlanta,30,7,M
+Atlanta,37,5,F
+Atlanta,27,12,F
+Atlanta,60,12,M
+Atlanta,18,5,M
+Atlanta,38,10,F
+Atlanta,56,15,F
+Atlanta,43,11,M
+Atlanta,52,25,F
+Atlanta,34,15,F
+Atlanta,33,17,F
+Atlanta,53,25,M
+Atlanta,17,5,F
+Atlanta,39,10,M
+Atlanta,39,12,M
+Atlanta,35,7,M
+Atlanta,46,45,M
+Atlanta,55,10,F
+Atlanta,31,31,M
+Atlanta,54,15,F
+Atlanta,20,2,F
+Atlanta,34,25,M
+Atlanta,33,12,M
+Atlanta,29,19,F
+Atlanta,23,30,F
+Atlanta,16,1,F
+Atlanta,43,15,F
+Atlanta,40,35,M
+Atlanta,38,14,F
+Atlanta,28,7,M
+Atlanta,57,11,M
+Atlanta,23,36,F
+Atlanta,68,14,M
+Atlanta,49,24,F
+Atlanta,17,1,F
+Atlanta,21,19,F
+Atlanta,56,11,F
+Atlanta,34,5,M
+Atlanta,51,12,M
+Atlanta,16,12,M
+Atlanta,43,28,M
+Atlanta,44,22,M
+Atlanta,25,34,F
+Atlanta,49,18,F
+Atlanta,19,15,M
+Atlanta,35,25,F
+Atlanta,41,0,F
+Atlanta,34,8,M
+Atlanta,46,12,M
+Atlanta,39,5,F
+Atlanta,48,14,F
+Atlanta,33,12,F
+Atlanta,39,14,F
+Atlanta,57,10,F
+Atlanta,37,10,F
+Atlanta,48,6,F
+Atlanta,32,20,F
+Atlanta,28,5,F
+Atlanta,42,8,M
+Atlanta,44,30,F
+Atlanta,55,5,M
+Atlanta,37,10,F
+Atlanta,58,10,M
+Atlanta,52,20,M
+Atlanta,30,0,M
+Atlanta,57,13,F
+Atlanta,30,0,F
+Atlanta,28,20,M
+Atlanta,56,25,M
+Atlanta,30,35,F
+Atlanta,36,3,F
+Atlanta,35,20,M
+Atlanta,53,3,M
+Atlanta,44,10,F
+Atlanta,27,30,F
+Atlanta,48,15,F
+Atlanta,46,12,M
+Atlanta,25,34,M
+Atlanta,34,25,F
+Atlanta,53,19,M
+Atlanta,49,8,M
+Atlanta,37,45,M
+Atlanta,43,10,F
+Atlanta,85,25,F
+Atlanta,32,15,M
+Atlanta,57,8,M
+Atlanta,45,4,M
+Atlanta,39,3,F
+Atlanta,44,27,M
+Atlanta,43,6,F
+Atlanta,26,5,F
+Atlanta,48,10,F
+Atlanta,22,6,F
+Atlanta,43,10,M
+Atlanta,49,45,M
+Atlanta,44,3,M
+Atlanta,49,35,F
+Atlanta,21,20,F
+Atlanta,57,27,M
+Atlanta,26,15,M
+Atlanta,44,19,M
+Atlanta,36,32,M
+Atlanta,37,14,F
+Atlanta,35,10,F
+Atlanta,31,20,M
+Atlanta,27,40,F
+Atlanta,30,22,F
+Atlanta,28,18,F
+Atlanta,24,10,M
+Atlanta,46,21,M
+Atlanta,27,15,F
+Atlanta,27,12,M
+Atlanta,40,35,F
+Atlanta,45,10,F
+Atlanta,35,29,F
+Atlanta,42,35,F
+Atlanta,46,18,M
+Atlanta,51,13,F
+Atlanta,34,15,F
+Atlanta,58,4,F
+Atlanta,22,0,F
+Atlanta,38,7,M
+Atlanta,47,20,F
+Atlanta,58,15,F
+Atlanta,39,38,F
+Atlanta,37,19,F
+Atlanta,29,22,M
+Atlanta,31,30,F
+Atlanta,39,14,F
+Atlanta,34,1,F
+Atlanta,43,45,M
+Atlanta,58,15,M
+Atlanta,57,22,F
+Atlanta,32,9,M
+Atlanta,27,15,M
+Atlanta,44,15,M
+Atlanta,52,20,M
+Atlanta,25,30,M
+Atlanta,25,25,M
+Atlanta,50,15,M
+Atlanta,27,25,M
+Atlanta,28,9,M
+Atlanta,23,15,M
+Atlanta,43,10,M
+Atlanta,42,26,M
+Atlanta,28,3,F
+Atlanta,28,10,F
+Atlanta,32,18,F
+Atlanta,42,34,M
+Atlanta,40,13,F
+St. Louis,52,10,M
+St. Louis,21,35,F
+St. Louis,23,40,F
+St. Louis,38,0,M
+St. Louis,26,14,M
+St. Louis,46,6,M
+St. Louis,28,14,F
+St. Louis,19,10,F
+St. Louis,21,5,F
+St. Louis,46,12,M
+St. Louis,45,2,F
+St. Louis,52,9,F
+St. Louis,49,25,F
+St. Louis,52,11,M
+St. Louis,39,14,M
+St. Louis,44,9,F
+St. Louis,62,4,F
+St. Louis,39,25,M
+St. Louis,46,5,F
+St. Louis,28,6,M
+St. Louis,46,28,M
+St. Louis,34,22,M
+St. Louis,47,5,F
+St. Louis,33,15,M
+St. Louis,52,12,F
+St. Louis,54,5,F
+St. Louis,31,25,M
+St. Louis,29,2,M
+St. Louis,52,4,F
+St. Louis,25,3,F
+St. Louis,41,8,F
+St. Louis,26,12,F
+St. Louis,44,7,M
+St. Louis,27,1,M
+St. Louis,40,18,M
+St. Louis,22,25,M
+St. Louis,34,10,M
+St. Louis,36,19,M
+St. Louis,20,8,F
+St. Louis,51,8,F
+St. Louis,71,12,F
+St. Louis,34,7,F
+St. Louis,28,6,M
+St. Louis,18,25,M
+St. Louis,47,3,F
+St. Louis,28,39,M
+St. Louis,48,25,M
+St. Louis,55,40,M
+St. Louis,66,3,F
+St. Louis,26,2,M
+St. Louis,52,0,M
+St. Louis,64,12,M
+St. Louis,20,6,F
+St. Louis,57,27,F
+St. Louis,43,3,M
+St. Louis,30,12,F
+St. Louis,34,10,M
+St. Louis,78,10,F
+St. Louis,25,9,M
+St. Louis,50,16,F
+St. Louis,46,0,M
+St. Louis,57,18,M
+St. Louis,35,23,M
+St. Louis,64,8,M
+St. Louis,41,5,F
+St. Louis,29,11,M
+St. Louis,45,20,M
+St. Louis,34,0,M
+St. Louis,28,20,F
+St. Louis,52,12,F
+St. Louis,42,17,F
+St. Louis,55,6,M
+St. Louis,47,14,F
+St. Louis,33,10,F
+St. Louis,65,12,F
+St. Louis,55,2,F
+St. Louis,22,5,F
+St. Louis,20,10,F
+St. Louis,44,37,F
+St. Louis,64,24,F
+St. Louis,46,3,F
+St. Louis,43,20,M
+St. Louis,45,9,F
+St. Louis,21,14,M
+St. Louis,33,20,M
+St. Louis,66,10,F
+St. Louis,27,11,M
+St. Louis,35,12,M
+St. Louis,58,15,M
+St. Louis,23,17,F
+St. Louis,44,25,M
+St. Louis,59,3,F
+St. Louis,52,5,M
+St. Louis,26,10,M
+St. Louis,30,14,F
+St. Louis,19,5,F
+St. Louis,35,22,F
+St. Louis,26,9,M
+St. Louis,30,0,M
+St. Louis,27,25,F
+St. Louis,47,10,F
+St. Louis,50,15,M
+St. Louis,53,10,F
+St. Louis,41,10,F
+St. Louis,48,5,F
+St. Louis,43,3,M
+St. Louis,50,1,M
+St. Louis,19,18,F
+St. Louis,61,0,M
+St. Louis,33,9,M
+St. Louis,57,44,M
+St. Louis,50,6,F
+St. Louis,54,2,M
+St. Louis,28,20,M
+St. Louis,40,1,M
+St. Louis,32,2,M
+St. Louis,72,8,F
+St. Louis,53,29,M
+St. Louis,54,45,M
+St. Louis,54,22,F
+St. Louis,39,35,F
+St. Louis,37,9,F
+St. Louis,25,8,M
+St. Louis,40,53,M
+St. Louis,55,14,M
+St. Louis,17,5,M
+St. Louis,50,15,M
+St. Louis,39,10,F
+St. Louis,62,3,F
+St. Louis,45,24,M
+St. Louis,33,25,M
+St. Louis,30,33,F
+St. Louis,40,20,F
+St. Louis,42,42,F
+St. Louis,45,0,M
+St. Louis,42,23,M
+St. Louis,17,15,F
+St. Louis,74,15,F
+St. Louis,55,16,M
+St. Louis,28,7,F
+St. Louis,48,7,M
+St. Louis,48,5,F
+St. Louis,46,29,M
+St. Louis,29,15,M
+St. Louis,55,19,F
+St. Louis,48,30,M
+St. Louis,47,9,M
+St. Louis,22,26,M
+St. Louis,47,37,F
+St. Louis,51,13,M
+St. Louis,32,10,F
+St. Louis,38,1,M
+St. Louis,46,9,F
+St. Louis,18,10,F
+St. Louis,66,26,M
+St. Louis,25,11,F
+St. Louis,22,15,M
+St. Louis,37,19,F
+St. Louis,56,11,F
+St. Louis,37,6,F
+St. Louis,57,21,F
+St. Louis,17,20,F
+St. Louis,48,5,F
+St. Louis,16,9,F
+St. Louis,35,11,M
+St. Louis,55,5,F
+St. Louis,19,10,M
+St. Louis,40,0,M
+St. Louis,36,9,F
+St. Louis,50,14,F
+St. Louis,69,20,M
+St. Louis,50,12,F
+St. Louis,51,27,F
+St. Louis,51,40,F
+St. Louis,39,2,F
+St. Louis,61,21,M
+St. Louis,22,4,M
+St. Louis,24,10,F
+St. Louis,53,10,F
+St. Louis,68,2,M
+St. Louis,30,6,F
+St. Louis,47,10,F
+St. Louis,44,11,M
+St. Louis,24,5,M
+St. Louis,41,5,M
+St. Louis,32,10,F
+St. Louis,28,4,M
+St. Louis,45,10,F
+St. Louis,47,65,M
+St. Louis,30,30,F
+St. Louis,35,7,M
+St. Louis,30,10,F
+St. Louis,44,6,M
+St. Louis,40,15,M
+St. Louis,51,5,F
+St. Louis,38,4,M
+St. Louis,17,5,F
+St. Louis,47,28,M
+St. Louis,46,21,F
+St. Louis,56,27,F
+St. Louis,51,3,M
+St. Louis,22,15,F
+St. Louis,23,0,M
+St. Louis,54,3,F
+St. Louis,46,20,F
+St. Louis,45,22,M
+St. Louis,42,36,M
+St. Louis,56,35,F
+St. Louis,60,5,F
+St. Louis,59,80,F
+St. Louis,34,15,M
+St. Louis,35,21,F
+St. Louis,71,20,M
+St. Louis,37,17,M
+St. Louis,37,8,M
+St. Louis,44,19,M
+St. Louis,28,9,F
+St. Louis,45,18,M
+St. Louis,17,10,M
+St. Louis,25,8,M
+St. Louis,30,3,M
+St. Louis,25,25,M
+St. Louis,64,6,M
+St. Louis,58,2,F
+St. Louis,27,23,M
+St. Louis,17,15,M
+St. Louis,60,11,F
+St. Louis,45,15,F
+St. Louis,52,10,F
+St. Louis,25,4,F
+St. Louis,47,13,M
+St. Louis,16,12,M
+St. Louis,50,15,M
+St. Louis,35,22,F
+St. Louis,49,6,M
+St. Louis,61,5,M
+St. Louis,34,29,F
+St. Louis,84,0,M
+St. Louis,52,37,F
+St. Louis,54,2,M
+St. Louis,57,26,M
+St. Louis,50,25,F
+St. Louis,26,35,M
+St. Louis,45,30,F
+St. Louis,42,3,M
+St. Louis,54,17,F
+St. Louis,38,7,F
+St. Louis,56,5,M
+St. Louis,68,3,M
+St. Louis,19,20,F
+St. Louis,20,5,M
+St. Louis,31,12,F
+St. Louis,26,3,F
+St. Louis,23,24,M
+St. Louis,32,29,M
+St. Louis,56,26,M
+St. Louis,23,25,M
+St. Louis,50,4,F
+St. Louis,34,5,M
+St. Louis,54,20,F
+St. Louis,66,33,M
+St. Louis,37,22,M
+St. Louis,35,20,F
+St. Louis,24,1,F
+St. Louis,42,10,F
+St. Louis,42,27,F
+St. Louis,30,32,F
+St. Louis,60,3,M
+St. Louis,57,8,F
+St. Louis,30,29,F
+St. Louis,21,4,M
+St. Louis,61,11,F
+St. Louis,39,4,F
+St. Louis,52,7,M
+St. Louis,61,15,M
+St. Louis,55,4,M
+St. Louis,29,15,F
+St. Louis,58,15,F
+St. Louis,34,23,F
+St. Louis,51,15,F
+St. Louis,42,17,M
+St. Louis,21,15,F
+St. Louis,56,14,M
+St. Louis,23,10,F
+St. Louis,44,0,M
+St. Louis,28,10,M
+St. Louis,60,22,M
+St. Louis,24,5,F
+St. Louis,37,0,F
+St. Louis,50,35,F
+St. Louis,34,15,F
+St. Louis,56,20,M
+St. Louis,34,8,F
+St. Louis,28,40,M
+St. Louis,42,30,M
+St. Louis,49,24,M
+St. Louis,30,2,M
+St. Louis,51,6,F
+St. Louis,27,9,M
+St. Louis,42,25,F
+St. Louis,23,7,M
+St. Louis,18,3,F
+St. Louis,40,10,F
+St. Louis,48,4,F
+St. Louis,23,8,F
+St. Louis,23,11,M
+St. Louis,59,7,M
+St. Louis,50,10,M
+St. Louis,32,11,F
+St. Louis,27,30,F
+St. Louis,34,6,M
+St. Louis,57,30,M
+St. Louis,36,1,F
+St. Louis,17,10,M
+St. Louis,50,19,F
+St. Louis,52,8,F
+St. Louis,31,1,F
+St. Louis,43,7,M
+St. Louis,20,3,F
+St. Louis,43,8,F
+St. Louis,55,2,F
+St. Louis,49,36,M
+St. Louis,47,14,M
+St. Louis,30,40,F
+St. Louis,34,39,M
+St. Louis,60,10,M
+St. Louis,45,5,F
+St. Louis,20,7,F
+St. Louis,34,25,M
+St. Louis,27,1,M
+St. Louis,58,25,M
+St. Louis,46,10,F
+St. Louis,47,8,M
+St. Louis,53,10,F
+St. Louis,56,3,F
+St. Louis,47,12,F
+St. Louis,45,20,M
+St. Louis,56,14,M
+St. Louis,30,24,F
+St. Louis,40,9,M
+St. Louis,28,18,M
+St. Louis,24,8,M
+St. Louis,16,0,M
+St. Louis,50,33,M
+St. Louis,50,18,F
+St. Louis,37,6,F
+St. Louis,63,35,F
+St. Louis,51,14,M
+St. Louis,47,15,M
+St. Louis,54,7,M
+St. Louis,38,23,M
+St. Louis,69,2,M
+St. Louis,52,8,M
+St. Louis,51,6,M
+St. Louis,38,25,M
+St. Louis,25,40,M
+St. Louis,45,10,M
+St. Louis,52,1,M
+St. Louis,41,11,F
+St. Louis,73,10,M
+St. Louis,37,20,M
+St. Louis,72,0,F
+St. Louis,54,2,F
+St. Louis,36,20,F
+St. Louis,42,29,M
+St. Louis,46,35,F
+St. Louis,33,18,F
+St. Louis,16,4,F
+St. Louis,63,6,F
+St. Louis,27,10,F
+St. Louis,41,6,M
+St. Louis,20,13,F
+St. Louis,49,8,F
+St. Louis,20,30,M
+St. Louis,54,17,M
+St. Louis,28,12,F
+St. Louis,65,11,M
+St. Louis,37,10,M
+St. Louis,40,15,M
+St. Louis,22,20,F
+St. Louis,64,5,F
+St. Louis,18,20,F
+St. Louis,56,4,F
+St. Louis,54,19,F
+St. Louis,38,10,F
+St. Louis,40,10,M
+St. Louis,57,4,F
+St. Louis,49,12,F
+St. Louis,48,20,M
+St. Louis,45,5,F
+St. Louis,42,8,F
+St. Louis,48,9,F
+St. Louis,41,20,M
+St. Louis,58,4,M
+St. Louis,30,0,M
+St. Louis,24,5,M
+St. Louis,55,2,M
+St. Louis,39,10,M
+St. Louis,29,2,M
+St. Louis,52,20,M
+St. Louis,41,2,M
+St. Louis,25,24,M
+St. Louis,47,10,M
+St. Louis,16,5,F
+St. Louis,19,6,M
+St. Louis,41,5,F
+St. Louis,47,18,M
+St. Louis,67,15,M
+St. Louis,52,7,M
+St. Louis,27,12,F
+St. Louis,57,9,M
+St. Louis,22,12,F
+St. Louis,26,30,F
+St. Louis,57,1,M
+St. Louis,29,15,M
+St. Louis,46,30,M
+St. Louis,64,15,M
+St. Louis,29,25,M
+St. Louis,24,14,F
+St. Louis,23,5,F
+St. Louis,40,10,M
+St. Louis,58,2,F
+St. Louis,39,13,F
+St. Louis,51,30,M
+St. Louis,54,28,F
+St. Louis,60,14,M
+St. Louis,26,30,F
+St. Louis,43,23,F
+St. Louis,17,5,M
+St. Louis,40,2,M
+St. Louis,31,19,F
+St. Louis,17,17,F
+St. Louis,50,10,M
+St. Louis,46,12,F
+St. Louis,46,0,F
+St. Louis,20,3,F
+St. Louis,27,3,M
+St. Louis,53,30,M
+St. Louis,62,8,M
+St. Louis,46,30,M
+St. Louis,39,15,M
+St. Louis,50,10,F
+St. Louis,55,6,M
+St. Louis,45,27,F
+St. Louis,43,22,M
+St. Louis,65,6,M
+St. Louis,24,10,M
+St. Louis,27,15,M
+St. Louis,39,4,F
+St. Louis,23,3,F
+St. Louis,54,6,M
+St. Louis,19,11,F
+St. Louis,39,24,F
+St. Louis,32,10,M
+St. Louis,51,13,F
+St. Louis,23,17,M
+St. Louis,39,19,M
+St. Louis,37,10,F
+St. Louis,46,25,M
+St. Louis,51,23,F
+St. Louis,51,1,M
+St. Louis,46,12,F
+St. Louis,29,25,F
+St. Louis,45,20,F
+St. Louis,35,15,M
+St. Louis,45,15,F
+St. Louis,51,13,F
+St. Louis,56,12,M
+St. Louis,31,20,M
+St. Louis,46,17,M
+St. Louis,52,35,F
+St. Louis,28,34,F
+St. Louis,56,14,M
+St. Louis,47,6,F
+St. Louis,58,12,M
+St. Louis,64,10,M
+St. Louis,45,10,M
+St. Louis,24,8,M
+St. Louis,44,7,F
+St. Louis,37,7,M
+St. Louis,55,15,F
+St. Louis,57,26,M
+St. Louis,16,7,M
+St. Louis,40,35,F
+St. Louis,37,21,M
+St. Louis,42,10,F
+St. Louis,71,6,F
+St. Louis,40,30,M
+St. Louis,36,23,M
+St. Louis,52,3,F
+St. Louis,34,45,M
+St. Louis,43,9,F
+St. Louis,44,8,M
+St. Louis,25,20,M
+St. Louis,16,17,M
+St. Louis,49,10,F
+St. Louis,57,2,F
+St. Louis,35,0,F
+St. Louis,32,10,M
+St. Louis,35,8,F
