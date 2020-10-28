@@ -185,6 +185,7 @@ inference <- function(y, x = NULL,
   y_levels = 0   # numerical variable
   if (x_type == "categorical") {x_levels = length(levels(x))}
   if (y_type == "categorical") {y_levels = length(levels(y))}
+  if (y_levels > 2 & !is.null(success)) {y_levels = 2}
   
   # error: missing type, method, est
   if (length(type) > 1) {stop("Missing type: ci (confidence interval) or ht (hypothesis test).", call. = FALSE)}
@@ -281,7 +282,8 @@ inference <- function(y, x = NULL,
   }
   
   # errors about success
-  if ((y_type == "categorical" & x_levels == 2 & y_levels == 2) | (y_type == "categorical" & is.null(x))) {
+  if ((y_type == "categorical" & x_levels == 2 & y_levels >= 2) | 
+      (y_type == "categorical" & is.null(x))) {
     # error: success not provided for categorical variable for 1 or 2 proportion ci or ht
     if (is.null(success)) {
       y_level_names = levels(y)
