@@ -587,7 +587,7 @@ inference <- function(y, x = NULL,
         # alternative = twosided	
         if (alternative == "twosided") {
           cat(paste("p-value = ", smaller_tail * 2,"\n"))
-          if (inf_lot == TRUE){
+          if (inf_plot == TRUE){
             if (actual < null) {
               normTail(L = teststat, U = -1*teststat, axes = FALSE, col = COL[1,2])
               axis(1, at = c(-3, teststat, 0, -1*teststat, 3), labels = c(NA, paste(round(actual,2)), paste(null), paste(round(null + (null - actual), 2)), NA))
